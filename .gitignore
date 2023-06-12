@@ -27,3 +27,9 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# Binary created by ocamlopt
+yatapp
+
+# JSON file created by the program
+yatapp.json
